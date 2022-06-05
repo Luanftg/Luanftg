@@ -1,4 +1,4 @@
-### Olá! 👋 Eu sou ✨ Luan Fonseca ✨   
+### Olá! Eu sou ✨ Luan Fonseca ✨   
 
 ---
 
@@ -10,7 +10,7 @@
 - 💬 Atualmente participo de dois programas curtos (3 meses) de formação de desenvolverdores Full-Stack: 
   - Hiring Coders e 
   -  Start-se - Tech Academy
-- 😄 Sou amante de games - Da época em que se jogava RPG de mesa! 🕹🎮
+- 😄 Sou amante de games - Da época em que se jogava RPG de mesa! 
 - ⚡ Acredito no poder de mentes dispostas a desenvolver tecnologias em prol de melhorias na qualidade de vida de toda a população!
 
 ---
