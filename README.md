@@ -4,12 +4,12 @@
 
 - 🎭 Sou artista, 🤸‍ bailarino, 👨‍🎨 arte-educador e 👨‍🎨 ator, em busca de oportunidade na área de programação.
 - 👨‍🔧 Sou Bacharel em engenharia civil desde 2016
-- 👨‍💻 Hoje estou aprendendo Flutter
+- 👨‍💻 Hoje estou aprendendo DEsenvolvimento Mobile com Dart e Flutter
 - 👀 ...de olho em projetos na área de reconhecimento de imagens, e tecnologias para as artes 🎨
 - 🤔 ...estudando conteúdo de programação regularmente na: Dio (Digital Inivattion One) e na RocketSeat desde março de 2022.
-- 💬 Atualmente participo de dois programas curtos (3 meses) de formação de desenvolverdores Full-Stack: 
-  - Hiring Coders e 
-  -  Start-se - Tech Academy
+- 💬 Participei recentemente de dois programas curtos (3 meses) de formação de desenvolverdores Full-Stack: 
+  - Hiring Coders pela Gama Academy e 
+  - Tech Academy pela Start-se Academy
 - 😄 Sou amante de games - Da época em que se jogava RPG de mesa! 
 - ⚡ Acredito no poder de mentes dispostas a desenvolver tecnologias em prol de melhorias na qualidade de vida de toda a população!
 
