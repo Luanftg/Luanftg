@@ -2,9 +2,9 @@
 
 ---
 
-- 🎭 Sou artista, 🤸‍ bailarino, 👨‍🎨 arte-educador e 👨‍🎨 ator, em busca de oportunidade na área de programação.
+- 🎭 Sou artista, 🤸‍ bailarino, 👨‍🎨 arte-educador e 👨‍🎨 ator, em busca de oportunidade na área de desenvolvimento de software.
 - 👨‍🔧 Sou Bacharel em engenharia civil desde 2016
-- 👨‍💻 Hoje estou aprendendo DEsenvolvimento Mobile com Dart e Flutter
+- 👨‍💻 Hoje estou aprendendo Desenvolvimento Mobile com Dart e Flutter
 - 👀 ...de olho em projetos na área de reconhecimento de imagens, e tecnologias para as artes 🎨
 - 🤔 ...estudando conteúdo de programação regularmente na: Dio (Digital Inivattion One) e na RocketSeat desde março de 2022.
 - 💬 Participei recentemente de dois programas curtos (3 meses) de formação de desenvolverdores Full-Stack: 
