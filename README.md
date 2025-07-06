@@ -2,10 +2,9 @@
 
 ---
 
-- 🎭 Sou artista, 🤸‍ bailarino, 👨‍🎨 arte-educador e 👨‍🎨 ator, em busca de oportunidade na área de desenvolvimento de software.
 - 👨‍🔧 Sou Bacharel em engenharia civil desde 2016
-- 👨‍💻 Hoje estou aprendendo Desenvolvimento Mobile com Dart e Flutter
-- 👀 ...de olho em projetos na área de reconhecimento de imagens, e tecnologias para as artes 🎨
+- 👨‍💻 Desenvolvedor Mobile com Dart e Flutter
+- 👀 ...de olho em projetos e tecnologias para desenvolver ferramentas digitais para o setor cultural e das artes 🎨
 - 🤔 ...estudando conteúdo de programação diariamente desde março de 2022.
 - 💬 Participei recentemente de dois programas curtos (3 meses) de formação de desenvolverdores Full-Stack: 
   - Hiring Coders pela Gama Academy e 
